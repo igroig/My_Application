@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alta</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="contact">Contact</string>
+    <string name="home">Home</string>
+</resources>
